@@ -13,6 +13,15 @@ The response should list the available slots and the time. Given that each appoi
 - Book the appointment based on the available slot. 
 Validate if the slot is available. Available slot should be deducted upon appointment made successfully
 
+## Demo Video
+Check in `videos/demo.mov` 
+
+[![Watch the video](videos/demo.mov)
+
+## ERD
+Check in `images/ERD.jpg`
+![Alt text](images/ERD.jpg?raw=true "Title")
+
 ## How to run the apps
 ```
 - Make sure docker already started on your device
