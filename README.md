@@ -16,7 +16,7 @@ Validate if the slot is available. Available slot should be deducted upon appoin
 ## Demo Video
 Check in `videos/demo.mov` 
 
-[![Watch the video](https://github.com/wimpijonathan/littlelives-appointment-system/blob/main/images/ERD.jpg)
+<video src="https://github.com/wimpijonathan/littlelives-appointment-system/blob/main/videos/demo.mp4"></video>
 
 ## ERD
 Check in `images/ERD.jpg`
